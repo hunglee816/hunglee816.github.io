@@ -2,10 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[PAGE1](./another-page.html).
-[PAGE2](./index_1.md).
+[PAGE1](./another-page.html)
+[PAGE2](./index_1.md)
 
 There should be whitespace between paragraphs.
 
